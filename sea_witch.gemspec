@@ -9,7 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["jerhinesmith"]
   spec.email         = ["jerhinesmith@gmail.com"]
   spec.summary       = %q{Wraps clippercard.com to provide a usable client in the absence of a true api}
-  spec.homepage      = ""
+  spec.description   = %q{Wraps clippercard.com to provide a usable client in the absence of a true api}
+  spec.homepage      = "https://github.com/jerhinesmith/sea_witch"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
